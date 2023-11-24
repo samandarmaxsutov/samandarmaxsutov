@@ -8,7 +8,7 @@
 <br>
 <div align="center" >
 <img src="my_gif2.gif" alt="Computer man" style="width:100% margin: auto "> 
-<div>
+</div>
 <br>
 <br>
 
@@ -46,7 +46,7 @@
 </p>
 <br>
 <br>
-<img width ="50%" style = "border-radius: 8px;"  src ="./my_img.jpeg"></img>
+<img width ="100%" style = "border-radius: 8px;"  src ="./my_img.jpeg"></img>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<img src="my_giphy.gif" alt="Computer man" style="width:50% ">
+<img src="my_giphy.gif" alt="Computer man" style="width:100% ">
 
 <br>
 <br>
@@ -67,3 +67,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samandarmaxsutov&" alt="samandarmaxsutov" /></p>
 
+<br>
