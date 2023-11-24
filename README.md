@@ -1,4 +1,3 @@
-<h1 style="background-color: black; color: green; padding: 20px; text-align: center; font-family: 'Courier New', Courier, monospace; height: 200px;">Hello world!</h1>
 
 
 
