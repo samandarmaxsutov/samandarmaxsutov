@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<h3 align="center"> A developer 👨🏽‍💻 and student 🧑🏻‍🎓 from Uzbekistan 🇺🇿</h3>
+<h3 align="center"> Software developer 👨🏽‍💻 and student 🧑🏻‍🎓 from Uzbekistan 🇺🇿</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samandarmaxsutov&label=Profile%20views&color=0e75b6&style=flat" alt="samandarmaxsutov" /> </p>
 
